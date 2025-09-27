@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "First Article",
+    "content": "This is my first JSON entry"
+  },
+  {
+    "id": 2,
+    "title": "Second Article",
+    "content": "Another JSON entry"
+  }
+]
